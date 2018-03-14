@@ -1,0 +1,3 @@
+Ime i prezime: Pera Peric
+Datum rodjenja 01.01.2000
+Zanimanje: ucenik
